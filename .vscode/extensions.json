@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "ms-vscode.cpptools",
+        "ms-vscode.cmake-tools",
+        "vadimcn.vscode-lldb",
+        "github.vscode-github-actions",
+        "GitHub.vscode-pull-request-github"
+    ]
+}

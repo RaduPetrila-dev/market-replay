@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Debug MarketReplay",
+      "type": "lldb",
+      "request": "launch",
+      "program": "${workspaceFolder}/build/debug/market_replay",
+      "args": [],
+      "cwd": "${workspaceFolder}",
+      "terminal": "integrated",
+      "preLaunchTask": "build-debug"
+    }
+  ]
+}
